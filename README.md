@@ -67,12 +67,15 @@ Este sistema de gestão de estacionamento foi projetado para registrar e gerenci
 
 <div align="center">
   <h3>🔎 Consulta das vagas disponíveis 🟢</h3>
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/0bb9e022-3987-42f1-8892-09bd23d83ec1" width="600px">
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/a1b3985a-3111-494a-a478-8814ece777a1" width="600px">
 </div><br>
 
 <div align="center">
   <h3>👨🏻‍💻 Demostração</h3>
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/ac08ad56-ef16-4d84-9ca9-1e898662e32f" width="900px">
+      <h4>Apresentação</h4>
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/4e7c9a71-bc62-4703-acae-f8c21cd7ed46" width="900px">
+     <h4>Funcionamento</h4>
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/7abdcb31-6ff9-4e31-979f-30dcf3b37a52" width="900px">
 </div><br>
 
 <hr>
