@@ -42,23 +42,27 @@ Este sistema de gestão de estacionamento foi projetado para registrar e gerenci
 <h3>Exemplo preenchendo cadastro com 10 vagas disponíveis:</h3>
 <br>
 <div align="center">
+  <h3>🖥️ Tela de principal</h3>
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/3a00af44-8629-4006-9af3-50ccae873bd1" width="600px">
+</div><br>
+<div align="center">
   <h3>🖥️ Tela de cadastro</h3>
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/eda555c7-f6b0-42c9-9a5e-dd2d104ddd10" width="600px">
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/8734f77b-890c-48fb-8907-d414780d1d47" width="600px">
 </div><br>
 
 <div align="center">
   <h3>✅ Cadastro realizado</h3>
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/c62b82bf-0f30-478a-a2f2-432c39e624ca" width="600px">
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/e7d04518-39c3-4a33-a477-aa15ce7ed867" width="600px">
 </div><br>
 
 <div align="center">
   <h3>❌ Erro ao cadastrar. Vaga já preenchida!</h3>
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/e280718d-f121-4291-b1d4-cdf324ef9565" width="600px">
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/701a53a1-dfce-4fa5-851a-76f0ed8bf809" width="600px">
 </div><br>
 
 <div align="center">
   <h3>🔎 Consulta vagas reservadas 🔴</h3>
-  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/0d38d1e2-7b42-41f2-8b38-aab48a613647" width="600px">
+  <img src="https://github.com/jonataacordi/SistemaControleEstacionamento/assets/20300806/cfc897dc-39f2-404b-9815-cae519cf02ae" width="600px">
 </div><br>
 
 <div align="center">
